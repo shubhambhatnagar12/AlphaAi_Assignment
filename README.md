@@ -1,2 +1,4 @@
 # AlphaAi_Assignment
-This repository has the 1st and 5th question of the assignment
+This repository has the Technical and Non Technical questions of the assignment
+
+Technical question: Question 1 and Question 5
